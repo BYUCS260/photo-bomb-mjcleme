@@ -224,7 +224,7 @@ module.exports = {
 };
 ```
 
-In addition, modify `server/server.js` so it contains the following, before
+In addition, modify `server.js` so it contains the following, before
 `app.listen`.
 
 ```javascript
