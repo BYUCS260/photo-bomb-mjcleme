@@ -12,7 +12,7 @@ with the photo on it. The requirements for this part are:
   name, date, and description.
 
 - The photo page should have its own view in `src/views` and its out route in
-  `src/router.js`
+  `src/router/index.js`
 
 - The photo page should axios to fetch the photo from the server.
 
